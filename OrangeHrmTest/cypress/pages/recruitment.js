@@ -1,0 +1,15 @@
+export const RECRUITMENT = ':nth-child(5) > .oxd-main-menu-item';
+export const ADD = '.orangehrm-header-container > .oxd-button';
+export const ADD_GIVEN_NAME ='.--name-grouped-field > :nth-child(1) > :nth-child(2) > .oxd-input';
+export const ADD_MIDDLE_NAME =':nth-child(2) > :nth-child(2) > .oxd-input';
+export const ADD_SURNAME =':nth-child(3) > :nth-child(2) > .oxd-input';
+export const SELECT_JOB ='.oxd-select-text--after > .oxd-icon';
+export const SELECT_QA_JOB ='.oxd-select-dropdown > :nth-child(5)';
+export const ADD_EMAIL =':nth-child(3) > .oxd-grid-3 > :nth-child(1) > .oxd-input-group > :nth-child(2) > .oxd-input';
+export const ADD_PHONE_NUMBER ='.oxd-grid-3 > :nth-child(2) > .oxd-input-group > :nth-child(2) > .oxd-input';
+export const ADD_KEYWORDS ='.orangehrm-save-candidate-page-full-width > .oxd-input-group > :nth-child(2) > .oxd-input';
+export const ADD_NOTES ='.oxd-textarea';
+export const CHECKBOX ='.oxd-checkbox-input > .oxd-icon';
+export const SAVE ='.oxd-button--secondary';
+export const SUCCESS = '.oxd-toast'
+export const FILE = '.oxd-file-div > .oxd-icon'

@@ -1,0 +1,16 @@
+{
+  "name": "orangehrm",
+  "version": "1.0.0",
+  "description": "implemetation of OrangeHRM using ScreenPlay pattern  with  Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.3",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^2.0.1"
+  }
+}
